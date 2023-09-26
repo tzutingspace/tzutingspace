@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there👋, I'm tzuting</h1>
 <h3 align="center">A backend developer from Taiwan</h3>
 
-- 🔭 I’m currently working on [FunctionFlow](https://github.com/tzutingspace/functionflow)
+- 🔭 I’m currently working on Qsearch.
 
 - 📫 How to reach me **tzutingh2@gmail.com**
 
